@@ -1,0 +1,23 @@
+{
+  "name": "CalCashFlow",
+  "short_name": "CalCashFlow",
+  "start_url": "/",
+  "display": "standalone",
+  ​​"orientation": "portrait-primary",
+  "background_color": "#FFEDB5",
+  "theme_color": "#FFE187",
+  "description": "...",
+  "icons": [{
+    "src": "",
+    "sizes": "32x32",
+    "type": "image/png"
+  }, {
+    "src": "",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
